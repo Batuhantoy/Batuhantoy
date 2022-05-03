@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Batuhantoy
 - 👀 I’m interested in improving myself
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on good ideas with any programming language
 - 📫 How to reach me 980.batuhantoy@gmail.com
 
