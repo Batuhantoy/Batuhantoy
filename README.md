@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate software developer that wants to learn and improve himself everyday</h3>
 
-- 👯 I’m looking to collaborate on **great ideas with awesome team**
+- 👯 I’m looking to collaborate on **great ideas with an awesome tech-savvy teammates**
 
 - 💬 Ask me about **Java, spring, Javascript, React, Solidity**
 
